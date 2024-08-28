@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="Componente de QRCode" src="./github/preview.png" width="100%">
+  <img alt="Componente de QRCode" src="./github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
